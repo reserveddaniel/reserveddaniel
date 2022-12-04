@@ -1,9 +1,9 @@
 - 👋 Hi, I’m @reserveddaniel
-- 👀 I’m interested in Increment
-- 🌱 I’m currently learning everything
-- 💞️ I’m looking to collaborate with uhmmmmm!
-- 📫 How to reach me +2348154563596
+- 👀 I’m interested in web3
+- 🌱 I’m currently learning Solidity,hardhat etc
+- 💞️ I’m looking to collaborate with you
+- 📫 How to reach me (twitter: @deanndueso)
 
 <!---
-reserveddaniel/reserveddaniel is a ✨ special ✨ blablablabla... `README.md`.
+reserveddaniel/Dedicated web2/web3  professional  with  history  of  meeting company  goals  utilizing consistent  and organized practices. Skilled  in  working  under  pressure  and adapting to new  situations  and challenges  to best  enhance  the  organizational brand. `README.md`.
 --->
